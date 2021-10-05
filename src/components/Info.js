@@ -4,8 +4,7 @@ class Info extends React.Component {
     render() {
         return (
             <div>
-                <h1>bla bla</h1>
-                <p>another bla</p>
+                <h1>Weather app</h1>
             </div>
         );
     }
