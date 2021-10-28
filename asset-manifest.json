@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cities/static/css/main.3147d889.chunk.css",
+    "main.js": "/cities/static/js/main.517abb33.chunk.js",
+    "main.js.map": "/cities/static/js/main.517abb33.chunk.js.map",
+    "runtime-main.js": "/cities/static/js/runtime-main.517ad97c.js",
+    "runtime-main.js.map": "/cities/static/js/runtime-main.517ad97c.js.map",
+    "static/css/2.0f1110e3.chunk.css": "/cities/static/css/2.0f1110e3.chunk.css",
+    "static/js/2.5ca5030a.chunk.js": "/cities/static/js/2.5ca5030a.chunk.js",
+    "static/js/2.5ca5030a.chunk.js.map": "/cities/static/js/2.5ca5030a.chunk.js.map",
+    "static/js/3.56479ce7.chunk.js": "/cities/static/js/3.56479ce7.chunk.js",
+    "static/js/3.56479ce7.chunk.js.map": "/cities/static/js/3.56479ce7.chunk.js.map",
+    "index.html": "/cities/index.html",
+    "static/css/2.0f1110e3.chunk.css.map": "/cities/static/css/2.0f1110e3.chunk.css.map",
+    "static/css/main.3147d889.chunk.css.map": "/cities/static/css/main.3147d889.chunk.css.map",
+    "static/js/2.5ca5030a.chunk.js.LICENSE.txt": "/cities/static/js/2.5ca5030a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/cities/static/media/polygon.69ac72c7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.517ad97c.js",
+    "static/css/2.0f1110e3.chunk.css",
+    "static/js/2.5ca5030a.chunk.js",
+    "static/css/main.3147d889.chunk.css",
+    "static/js/main.517abb33.chunk.js"
+  ]
+}
